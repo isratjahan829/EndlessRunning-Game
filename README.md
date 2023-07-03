@@ -2,7 +2,7 @@
 
 
 Just Endless Runner on Unity.
-![image](D:\DECSTOP\Photoshop\GamePic(2).jpg)
+![image](https://github.com/isratjahan829/EndlessRunning-Game/blob/main/GamePic(2).jpg)
 
 ## Tecnologías
 
